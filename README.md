@@ -8,7 +8,9 @@ A simple QR Code Attendance System built using Python and Tkinter for both stude
   - Students can enter their ID and name to mark attendance.
   - QR code is generated for students to scan and submit their attendance via a Google Form.
 
-- **Teacher Interface**: 
+- **Teacher Interface**:
+- ![image](https://github.com/user-attachments/assets/914a7ff8-47ee-43ac-b2ba-28019e8adb3b)
+
   - Teachers can manually mark attendance for students or mark them as absent.
   - Teachers can view attendance records and export them to Excel.
   - Access to the teacher interface is password-protected for security.
