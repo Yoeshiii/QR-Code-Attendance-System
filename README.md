@@ -39,9 +39,6 @@ student_attendance.xlsx: The Excel file that stores attendance records marked by
 student_qr_code.png: The QR code image generated dynamically when the system is run.
 Record_from_Qr_cord.xlsx: Ths Excel files stores the student records sumitted through Qr cord.
 
-QR_Cord
-
-![alt text](image.png)
 
 So when you run the cord this userinterface will pop out whand when you selsct generate QR cord it will display the cord which a students can scan and mark their attandance.
 
@@ -52,14 +49,6 @@ The student enters their Student ID and Name when prompted.
 The student’s attendance is recorded with a timestamp and saved to an Excel file.
 The student scans the QR code, which links to a Google Form, to submit their attendance.
 Teacher Interface
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
 
 The teacher logs in using a password.
 The teacher can manually mark attendance for students or mark them as absent.
